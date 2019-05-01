@@ -1,9 +1,11 @@
-Python
+Python ->
 https://github.com/in28minutes/python-tutorial-for-beginners?utm_content=educational&utm_campaign=2019-04-23&utm_source=email-sendgrid&utm_term=13363166&utm_medium=1352468
 
-
+template Html ->
 https://adminlte.io/themes/AdminLTE/index.html#
 view-source:https://adminlte.io/themes/AdminLTE/pages/tables/simple.html
+
+graphql ->
 https://www.apollographql.com/docs/react/features/error-handling
 https://console.graph.cool/Example%20Project/schema/types
 https://console.graph.cool/angular-graphcool-chat/models/User/databrowser
@@ -11,7 +13,7 @@ https://rodrigoalves.me/blog/angular2-logica-de-paginacao/
 https://libraries.io/npm/@angular%2Fmaterial/6.0.2
 https://graphql.org/graphql-js/mutations-and-input-types/
 
-Angular
+Angular ->
 https://medium.com/@swathisprasad/generating-and-consuming-rest-apis-with-spring-boot-2-angular-7-and-swagger-2-ee4abc3c6459
 
 
